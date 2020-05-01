@@ -1,3 +1,3 @@
-## Welcome to Unnamed Wizards
+## Custom Pokemon Cards
 
 I hope you enjoy!!!
