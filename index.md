@@ -1,3 +1,3 @@
-## Welcome to Github pages
+## Welcome to Unnamed Wizards
 
-You can use the [editor on Github](https://github.com/ShawnaJean/octocat.github.io/edit/master/index.md) to maintain and preview the content in your Markdown files
+I hope you enjoy!!!
